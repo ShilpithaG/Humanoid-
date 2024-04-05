@@ -1,4 +1,4 @@
-# Humanoid-
+# Humanoid
 A meticulously crafted humanoid arm and neck system featuring five degrees of freedom. This project showcases meticulous craftsmanship and precise kinematics calculations, offering a glimpse into the fascinating world of robotics engineering.
 The project involved designing and constructing a prototype of a humanoid robot arm and neck with five degrees of freedom. Mounted on a mobile base, the robot incorporated L298N motor drivers for control. Kinematics calculations were performed to ensure precise movement, and MATLAB was utilized for device simulation.
 
